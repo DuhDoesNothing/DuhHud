@@ -3032,6 +3032,28 @@ Scheme
 
 	//Custom hud fonts//
 	
+		
+		
+		LEMONMILKBold8
+		{
+			"1"
+			{
+				"name"		"LEMON MILK Bold"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}		
+		
+		LEMONMILKBold12
+		{
+			"1"
+			{
+				"name"		"LEMON MILK Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+
 		LEMONMILKBold16
 		{
 			"1"
@@ -3042,12 +3064,32 @@ Scheme
 			}
 		}
 
+		LEMONMILKBold20
+		{
+			"1"
+			{
+				"name"		"LEMON MILK Bold"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+
 		LEMONMILKBold24
 		{
 			"1"
 			{
 				"name"		"LEMON MILK Bold"
 				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		LEMONMILKBold36
+		{
+			"1"
+			{
+				"name"		"LEMON MILK Bold"
+				"tall"		"36"
 				"antialias" "1"
 			}
 		}
